@@ -1,0 +1,19 @@
+{
+  "name": "@skymunn/tea-tiny",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikr4-m/tea-tiny.git"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kakushin/agni": "^0.0.1"
+  }
+}
