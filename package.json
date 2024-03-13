@@ -1,6 +1,6 @@
 {
-  "name": "@skymunn/teh-saset",
-  "version": "1.0.0",
+  "name": "@skymunn/teh-saset-botol",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ikr4-m/tea-tiny.git"
@@ -14,6 +14,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@kakushin/agni": "^0.0.1"
+    "@skymunn/teh-saset": "^1.0.0"
   }
 }
